@@ -6,7 +6,7 @@
     <tr>
         <td width=25%>Название</td>
         <td>Описание</td>
-        <td width=20%>Ключевые слова</td>
+        <td width=25%>Ключевые слова</td>
     </tr>
     <tr>
         <td>Car_price_prediction</td>
